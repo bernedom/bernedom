@@ -1,6 +1,6 @@
 ### 🧗 Dominik Berner 🧗
 
-c++ coder, agilist, rock climber. 
+c++ coder, agilist, rock climber. Software Crafter @https://github.com/wingtra/
 
 :memo: I'm publishing my thoughts at https://dominikberner.ch 
 
